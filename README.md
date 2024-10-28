@@ -16,18 +16,8 @@ Where:
 All outputs will return a Pandas DataFrame. This DataFrame will be have two columns, the first column header is called DATE and displays the date in format (YYYY-MM-DD). The second column is the name of your data measure capitalized (ex. SP500). The output looks like this when printed:
 
 ---
-           DATE    SP500
-0    2020-01-01  3251.83
-1    2020-01-02  3257.85
-2    2020-01-03  3234.85
-3    2020-01-06  3246.28
-4    2020-01-07  3237.18
-...         ...      ...
-1253 2024-10-21  5853.98
-1254 2024-10-22  5851.20
-1255 2024-10-23  5797.42
-1256 2024-10-24  5809.86
-1257 2024-10-25  5808.12
+![image](https://github.com/user-attachments/assets/93c2a875-2fee-43c3-ae2e-3ea4e0c7579f)
+
 ---
 
 **You Can Get Your Free API Key Here:** https://fredaccount.stlouisfed.org/login/secure/
