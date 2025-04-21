@@ -1,0 +1,9 @@
+README.md
+setup.py
+FRED/__init__.py
+FRED/main.py
+fredApi.egg-info/PKG-INFO
+fredApi.egg-info/SOURCES.txt
+fredApi.egg-info/dependency_links.txt
+fredApi.egg-info/requires.txt
+fredApi.egg-info/top_level.txt

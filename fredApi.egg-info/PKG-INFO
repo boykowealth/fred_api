@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: fredApi
+Version: 1.0
+Summary: This Python module provides a simple interface to fetch and parse economic data series from the Federal Reserve Economic Data (FRED) API. Using this module, you can retrieve time series data from FRED, including economic indicators, inflation rates, and other key datasets.
+Home-page: https://github.com/boykowealth/fred_api
+Author: Brayden Boyko
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
